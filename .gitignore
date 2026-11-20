@@ -4,3 +4,4 @@ __pycache__/
 venv/
 mlruns/
 mlflow.db
+build.log
